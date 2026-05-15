@@ -12,7 +12,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
 
+    # 👇 force new Node 24 runtime
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
+      # 🔴 THIS WAS MISSING → checkout repo
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
       - name: Generate snake svg
         uses: Platane/snk@v3
         with:
@@ -21,9 +29,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
-      # NEW modern deploy step (replaces deprecated action)
-      - name: Push snake to repo
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Commit generated files
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "Generate contribution snake"
-          branch: main
