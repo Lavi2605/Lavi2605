@@ -9,11 +9,13 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Lavi2605&show_icons=true&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lavi2605&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavi2605&layout=compact&theme=tokyonight)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/dist/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Lavi2605/Lavi2605/blob/main/dist/github-contribution-grid-snake.svg)
+
+## 📈 Contribution Summary
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lavi2605&theme=tokyonight)
 
 ## 💻 LeetCode Stats
 
