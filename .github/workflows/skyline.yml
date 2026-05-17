@@ -17,3 +17,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Lavi2605
+          BRANCH_NAME: main          # ⭐ VERY IMPORTANT
+          OUT_FOLDER: profile-3d-contrib   # ⭐ forces folder creation
