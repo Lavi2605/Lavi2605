@@ -501,14 +501,21 @@ leadership:
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<!-- ░░░░░░░░░░░░░ SNAKE & CONTRIBUTORS ░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░ Contribution Snake, Skyline & SNAKE ░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+## 👾 Contribution Snake Eating My Commits
+
+<img src="https://raw.githubusercontent.com/Lavi2605/Lavi2605/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
 
 <div align="center">
 
 ## 🌃 GitHub Skyline
 
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=Lavi2605&bg=0d1117" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/Lavi2605/Lavi2605/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 </div>
 
 <div align="center">
