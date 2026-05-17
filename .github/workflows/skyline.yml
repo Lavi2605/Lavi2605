@@ -2,15 +2,18 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write   # ⭐ THIS IS THE MISSING PART
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v4   # upgraded version
+      - uses: yoshi389111/github-profile-3d-contrib@v0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Lavi2605
