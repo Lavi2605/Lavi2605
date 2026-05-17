@@ -4,7 +4,7 @@
 <!--                    ANIMATED HEADER                      -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:00FF9C,70:00E5FF,100:0d1117&height=280&section=header&text=LAVISH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Engineer%20%7C%20AI%20Researcher%20%7C%20IEEE%20CS%20Chairperson&descAlignY=60&descColor=00FF9C&descSize=17&stroke=00FF9C&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:00FF9C,70:00E5FF,100:0d1117&height=280&section=header&text=LAVISH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Engineer%20%7C%20AI%20Researcher%20%7C%20IEEE%20Computer%20Society%20Chairperson&descAlignY=60&descColor=00FF9C&descSize=17&stroke=00FF9C&strokeWidth=2"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=720&lines=Building+Agentic+AI+Systems;Designing+Scalable+Architectures;Exploring+RAG+%26+NLP+Pipelines;IEEE+Computer+Society+Chairperson+%40+SJBIT;Open+to+Internships" alt="Typing SVG" />
 
@@ -21,12 +21,12 @@
 ```bash
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║ ██╗    ██╗██╗  ██╗ ██████╗      █████╗ ███╗   ███╗  ██╗              ║
-║ ██║    ██║██║  ██║██╔═══██╗    ██╔══██╗████╗ ████║  ██║              ║
-║ ██║ █╗ ██║███████║██║   ██║    ███████║██╔████╔██║  ██║              ║
-║ ██║███╗██║██╔══██║██║   ██║    ██╔══██║██║╚██╔╝██║  ██║              ║
-║ ╚███╔███╔╝██║  ██║╚██████╔╝    ██║  ██║██║ ╚═╝ ██║  ██║              ║
-║  ╚══╝╚══╝ ╚═╝  ╚═╝ ╚═════╝     ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝              ║
+║ ██╗    ██╗██╗  ██╗ ██████╗      █████╗ ███╗   ███╗   ██╗             ║
+║ ██║    ██║██║  ██║██╔═══██╗    ██╔══██╗████╗ ████║   ██║             ║
+║ ██║ █╗ ██║███████║██║   ██║    ███████║██╔████╔██║   ██║             ║
+║ ██║███╗██║██╔══██║██║   ██║    ██╔══██║██║╚██╔╝██║   ██║             ║
+║ ╚███╔███╔╝██║  ██║╚██████╔╝    ██║  ██║██║ ╚═╝ ██║   ██║             ║
+║  ╚══╝╚══╝ ╚═╝  ╚═╝ ╚═════╝     ╚═╝  ╚═╝╚═╝     ╚═╝   ╚═╝             ║
 ║                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  Handle     →  Lavish                  GitHub   →  Lavi2605          ║
@@ -281,6 +281,11 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Lavi2605/Lavi2605/main/profile-3d-contrib/profile-night-rainbow.svg" width="70%">
+</div>
+
 <br/>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
@@ -501,38 +506,6 @@ leadership:
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<!-- ░░░░░░░░░░░░░ Contribution Snake, Skyline & SNAKE ░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-## 👾 Contribution Snake Eating My Commits
-
-<img src="https://raw.githubusercontent.com/Lavi2605/Lavi2605/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<div align="center">
-
-## 🌃 GitHub Skyline
-
-<img src="https://raw.githubusercontent.com/Lavi2605/Lavi2605/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-</div>
-
-<div align="center">
-
-### `[ 🐍  CONTRIBUTION SNAKE ]`
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
-
-<br/>
-
-![](https://github-contributor-stats.vercel.app/api?username=Lavi2605&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
-<br/>
-
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!-- ░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░ -->
 
@@ -546,8 +519,6 @@ leadership:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<br/><br/>
-
 [![Profile Views](https://komarev.com/ghpvc/?username=Lavi2605&style=for-the-badge&color=00ff9c&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/Lavi2605)
 
 <br/>
@@ -558,8 +529,6 @@ leadership:
 ║   ⚡  ALWAYS BUILDING  ·  SIGNAL: STRONG     ║
 ╚══════════════════════════════════════════════╝
 ```
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:001a0f,50:00FF9C,75:00E5FF,100:0d1117&height=150&section=footer&animation=fadeIn"/>
 
