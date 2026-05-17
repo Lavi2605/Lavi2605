@@ -1,356 +1,545 @@
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=00FF9C&width=700&lines=BOOTING+LAVISH+OS+v3.0...;ACCESS+GRANTED+%5BCLEARANCE+L5%5D;FULL-STACK+DEVELOPER;AI+%2F+ML+RESEARCHER;IEEE+CHAIRPERSON" />
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,25:00FF9C,50:00E5FF,75:8B5CF6,100:030712&height=220&section=header&text=LAVISH&fontSize=60&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20|%20IEEE%20Computer%20Society%20Chairman,%20SJBIT%7C%20AI%20Explorer&descAlignY=58"/>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER                      -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:00FF9C,70:00E5FF,100:0d1117&height=280&section=header&text=LAVISH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Engineer%20%7C%20AI%20Researcher%20%7C%20IEEE%20CS%20Chairperson&descAlignY=60&descColor=00FF9C&descSize=17&stroke=00FF9C&strokeWidth=2"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=720&lines=Building+Agentic+AI+Systems;Designing+Scalable+Architectures;Exploring+RAG+%26+NLP+Pipelines;IEEE+Computer+Society+Chairperson+%40+SJBIT;Open+to+Internships" alt="Typing SVG" />
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 </div>
 
----
+<br/>
+
+<!-- ░░░░░░░░░░░░░ WHO AM I ░░░░░░░░░░░░░ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=3&section=header&stroke=00FF9C&strokeWidth=1"/>
 
 ```bash
-┌──(root㉿lavish)
-└─$ who am i
-
-Name        :: Lavish
-Github      :: Lavi2605
-LeetCode    :: Lavish-
-Role        :: Full-Stack Developer
-Focus       :: Agentic AI • RAG • Scalable Systems
-Institute   :: SJBIT Bengaluru
-Status      :: Open to Internships
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║ ██╗    ██╗██╗  ██╗ ██████╗      █████╗ ███╗   ███╗  ██╗              ║
+║ ██║    ██║██║  ██║██╔═══██╗    ██╔══██╗████╗ ████║  ██║              ║
+║ ██║ █╗ ██║███████║██║   ██║    ███████║██╔████╔██║  ██║              ║
+║ ██║███╗██║██╔══██║██║   ██║    ██╔══██║██║╚██╔╝██║  ██║              ║
+║ ╚███╔███╔╝██║  ██║╚██████╔╝    ██║  ██║██║ ╚═╝ ██║  ██║              ║
+║  ╚══╝╚══╝ ╚═╝  ╚═╝ ╚═════╝     ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝              ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  Handle     →  Lavish                  GitHub   →  Lavi2605          ║
+║  Institute  →  SJBIT, Bengaluru        LeetCode →  Lavish05          ║
+║  Role       →  Full-Stack Developer & AI/ML Researcher               ║
+║  Focus      →  Agentic AI  ·  RAG  ·  Scalable Systems               ║
+║  Position   →  IEEE Computer Society Chairperson @ SJBIT             ║
+║  Status     →  ◉ ONLINE         [ ✦ Open to Internships ]           ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-# 📡 CONNECT
+<!-- ░░░░░░░░░░░░░ CONNECT ░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Lavi2605-030712?style=for-the-badge\&logo=github\&logoColor=00FF9C)](https://github.com/Lavi2605)
+### `[ 📡  CONNECT ]`
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Lavish05-030712?style=for-the-badge\&logo=leetcode\&logoColor=FFA116)](https://leetcode.com/u/Lavish05/)
+<br/>
 
-[![Email](https://img.shields.io/badge/Email-CONTACT-030712?style=for-the-badge\&logo=gmail\&logoColor=FF3B3B)](mailto:lavish.dev.work@gmail.com)
+[![GitHub](https://img.shields.io/badge/──────%20GitHub%20──────-Lavi2605-0d1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0d1117&color=0d1117)](https://github.com/Lavi2605)
+[![LeetCode](https://img.shields.io/badge/──────%20LeetCode%20──────-Lavish05-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117&color=0d1117)](https://leetcode.com/u/Lavish05/)
+[![Email](https://img.shields.io/badge/──────%20Email%20──────-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=FF3B3B&labelColor=0d1117&color=0d1117)](mailto:lavish.dev.work@gmail.com)
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/Lavi2605?style=flat-square&color=00ff9c&labelColor=0d1117&label=GitHub+Followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/Lavi2605?style=flat-square&color=00e5ff&labelColor=0d1117&label=Total+Stars"/>
 
 </div>
 
+<br/>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<!-- ░░░░░░░░░░░░░ WORK EXPERIENCE ░░░░░░░░░░░░░ -->
+
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/Lavi2605?style=for-the-badge&color=00ff9c&labelColor=030712"/>
-<img src="https://img.shields.io/github/stars/Lavi2605?style=for-the-badge&color=00e5ff&labelColor=030712"/>
+### `[ 💼  WORK EXPERIENCE ]`
 
 </div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-# ⚡ TECH STACK TERMINAL
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=700&lines=LOADING+TECH+STACK+MODULES...;INITIALIZING+FULL-STACK+SYSTEMS...;AI+%2F+ML+PIPELINES+ACTIVE...;DATABASE+ENGINES+ONLINE..." />
-
-</div>
-
-```diff
-+ Python        ████████████████████ 90%
-+ C++           ██████████████████░░ 82%
-+ JavaScript    ████████████████░░░ 78%
-+ TypeScript    ██████████████░░░░░ 72%
-+ Java          █████████████░░░░░░ 68%
-+ C             ███████████████░░░░ 74%
-```
-
-```bash
-[██████████████████████] SYSTEM STATUS : ONLINE
-[████████████████████░] AI MODULES    : ACTIVE
-[███████████████████░░] CLOUD STACK   : RUNNING
-[█████████████████████] SECURITY      : ENABLED
-```
-
-<div align="center">
-
-| 🖥️ PROGRAMMING LANGUAGES                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | ⚡ FULL-STACK FRAMEWORKS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=00ff9c)<br>![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge\&logo=c%2B%2B\&logoColor=00ff9c)<br>![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=00ff9c)<br>![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript\&logoColor=00ff9c)<br>![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge\&logo=openjdk\&logoColor=00ff9c)<br>![C](https://img.shields.io/badge/C-111111?style=for-the-badge\&logo=c\&logoColor=00ff9c) | ![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=00ff9c)<br>![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge\&logo=nextdotjs\&logoColor=00ff9c)<br>![Angular](https://img.shields.io/badge/Angular-111111?style=for-the-badge\&logo=angular\&logoColor=00ff9c)<br>![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=node.js\&logoColor=00ff9c)<br>![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge\&logo=express\&logoColor=00ff9c)<br>![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge\&logo=fastapi\&logoColor=00ff9c) |
-
-| 🗄️ DATABASE SYSTEMS                                                                                                                                                                                                                                                                                                                                                                                                                                  | 🤖 AI / ML SYSTEMS                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge\&logo=mongodb\&logoColor=00ff9c)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge\&logo=postgresql\&logoColor=00ff9c)<br>![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge\&logo=mysql\&logoColor=00ff9c)<br>![Neo4j](https://img.shields.io/badge/Neo4j-111111?style=for-the-badge\&logo=neo4j\&logoColor=00ff9c) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge\&logo=tensorflow\&logoColor=00ff9c)<br>![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge\&logo=pytorch\&logoColor=00ff9c)<br>![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge\&logo=scikitlearn\&logoColor=00ff9c)<br>![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge\&logo=openai\&logoColor=00ff9c) |
-
-| 🛠️ SYSTEMS & DEVOPS                                                                                                                                                                                                                                                                                                                                                                                                          | 🚀 CAPABILITIES                                                                                                                                                                      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=00ff9c)<br>![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=00ff9c)<br>![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker\&logoColor=00ff9c)<br>![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge\&logo=amazonaws\&logoColor=00ff9c) | • Agentic AI Architectures<br>• Retrieval-Augmented Generation<br>• Full-Stack System Design<br>• Scalable Backend Engineering<br>• NLP & Topic Modeling<br>• Research & Prototyping |
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=Lavi2605\&theme=github_dark\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=Lavi2605\&theme=github-dark-blue\&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lavi2605\&theme=github_dark\&hide_border=true\&include_all_commits=true\&count_private=true\&layout=compact)
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-# 📈 ACTIVITY GRAPH
-
-<div align="center">
-
-[![Lavish github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lavi2605\&bg_color=030712\&color=00ff9c\&line=00e5ff\&point=8b5cf6\&area=true\&hide_border=true)](https://github.com/Lavi2605)
-
-</div>
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-# 🧩 LEETCODE TERMINAL
-
-```bash
-[INFO] Connecting to LeetCode servers...
-[ OK ] User authenticated
-[ OK ] Metrics fetched successfully
-```
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Lavish05?theme=dark&font=JetBrains%20Mono&ext=contest" />
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-# 🚀 TOP REPOSITORIES
-
-<div align="center">
 
 <table>
 <tr>
+<td align="center">
 
-<td width="50%">
-
-# 🏥 vaidyaCare
-<a href="https://github.com/Lavi2605/vaidyaCare">
-<img src="https://img.shields.io/badge/AI%20HEALTHCARE-00ff9c?style=for-the-badge&logo=medrxiv&logoColor=black"/>
-
-```bash
-[PROJECT]: vaidyaCare
-[TYPE]   : AI Healthcare Platform
-[STACK]  : React • Node.js • MongoDB
-[STATUS] : ACTIVE
-```
+<b>╭───────╮</b><br>
+<b>│ 2024 │</b><br>
+<b>╰───────╯</b>
 
 </td>
+<td width="100%">
 
-<td width="50%">
+**📊 &nbsp;Unified Mentor &nbsp;·&nbsp; Data Analyst Intern**
 
-# 🛡️ TRACE
-<a href="https://github.com/Lavi2605/NeuralBoost_7">
-<img src="https://img.shields.io/badge/CYBERSECURITY-00e5ff?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+`Bengaluru, Karnataka` &nbsp;|&nbsp; `Sept 2024 → Nov 2024` &nbsp;|&nbsp; `✅ Completed`
 
-```bash
-[PROJECT]: TRACE
-[TYPE]   : Cybersecurity Platform
-[STACK]  : Security • Monitoring • AI
-[STATUS] : ACTIVE
-```
+---
 
-</td>
+🔹 Built **automated data processing workflows** using Python & SQL — cleaning, transforming, and validating structured datasets at scale
 
-</tr>
+🔹 Applied **ML models** (Decision Tree, Random Forest) for classification tasks and end-to-end performance analysis
 
-<tr>
+🔹 Authored **reusable Python scripts** for data analysis automation — significantly cutting down manual effort and boosting team efficiency
 
-<td width="50%">
+<br/>
 
-# 🧠 SXAG033
-<a href="https://github.com/gauravmishraokok/SXAG033">
-<img src="https://img.shields.io/badge/AI%20RESEARCH-8b5cf6?style=for-the-badge&logo=openai&logoColor=white"/>
-
-```bash
-[PROJECT]: SXAG033
-[TYPE]   : AI/ML Experimental System
-[STACK]  : Python • ML • Research
-[STATUS] : DEVELOPMENT
-```
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff9c)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=00e5ff)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=8B5CF6)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=00ff9c)
+![Decision Tree](https://img.shields.io/badge/Decision_Tree-0d1117?style=flat-square&logoColor=00e5ff)
+![Random Forest](https://img.shields.io/badge/Random_Forest-0d1117?style=flat-square&logoColor=8B5CF6)
 
 </td>
-
-<td width="50%">
-
-# ⚙️ DAGS
-<a href="https://github.com/Lavi2605/Digital_Afterlife_Governance_System_DAGS">
-<img src="https://img.shields.io/badge/SYSTEM%20ARCHITECTURE-00ff9c?style=for-the-badge&logo=docker&logoColor=black"/>
-
-```bash
-[PROJECT]: DAGS
-[TYPE]   : Private repo
-[STACK]  : Full-Stack • APIs • Cloud
-[STATUS] : ACTIVE
-```
-
-</td>
-
 </tr>
 </table>
 
-</div>
+<br/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<!-- ░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-## 🏆 ACHIEVEMENT TERMINAL
+### `[ ⚡ TECH STACK ]`
+
+<br/>
+
+<table>
+
+<tr>
+<td width="50%" align="center">
+
+### 🧠 Languages
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="45"><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="45"><br>C++</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"><br>JavaScript</td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="45"><br>TypeScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="45"><br>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=c" width="45"><br>C</td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🌐 Full Stack
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"><br>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="45"><br>Next.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=angular" width="45"><br>Angular</td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"><br>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"><br>Express</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="45"><br>FastAPI</td>
+</tr>
+</table>
+
+</td>
+
+<td align="center">
+
+### 🗄️ Databases
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"><br>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="45"><br>PostgreSQL</td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="45"><br>MySQL</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="45"><br>Neo4j
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🤖 AI / ML
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"><br>TensorFlow</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="45"><br>PyTorch</td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=sklearn" width="45"><br>Scikit-Learn</td>
+<td align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="45">
+  <br>OpenAI
+</td>
+</tr>
+</table>
+
+</td>
+<td align="center">
+
+### ☁️ DevOps & Cloud
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="45"><br>Linux</td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45"><br>Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="45"><br>AWS</td>
+</tr>
+</table>
+
+</td>
+
+<td align="center">
+
+### 🛠️ Tools
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="45"><br>VS Code</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="45"><br>GitHub</td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="45"><br>Postman</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="45"><br>Firebase</td>
+</tr>
+</table>
+
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+```
+  Python      ████████████████████░  90%   ┃   JavaScript   ████████████████░░░░░  78%
+  C++         ██████████████████░░░  82%   ┃   TypeScript   ██████████████░░░░░░░  72%
+  C           ███████████████░░░░░░  74%   ┃   Java         █████████████░░░░░░░░  68%
+```
 
 </div>
+
+<br/>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<!-- ░░░░░░░░░░░░░ GITHUB ANALYTICS ░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+### `[ 📊  GITHUB ANALYTICS ]`
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=Lavi2605&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF9C&icon_color=00E5FF&text_color=c9d1d9&border_radius=12&ring_color=00FF9C&show_icons=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Lavi2605&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&border_radius=12"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Lavi2605&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF9C&fire=00E5FF&currStreakLabel=00FF9C&sideLabels=00E5FF&dates=8b9cbf&border_radius=12&stroke=0d1117"/>
+
+<br/><br/>
+
+<!-- ISOMETRIC / 3D STATS CARD -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lavi2605&theme=github_dark" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lavi2605&theme=github_dark"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lavi2605&theme=github_dark"/>
+
+</div>
+
+<br/>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<!-- ░░░░░░░░░░░░░ LEETCODE ░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+<h2 align="center">🧩 LeetCode — Problem Solving</h2>
+
+<p align="center">
+Sharpening Data Structures & Algorithms🚀  
+Focused on writing clean, optimized and scalable solutions.
+</p>
+
+<br/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Problems%20Solved-130+-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/DSA%20Focus-Algorithms%20%7C%20Data%20Structures-0d1117?style=for-the-badge&logo=codeforces&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/Contest%20Participant-Active-0d1117?style=for-the-badge&logo=leetcode&logoColor=00ff9c"/>
+</p>
+
+<br/>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Lavish05?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=12" width="520"/>
+</p>
+
+<br/>
+
+<h3 align="center">💡 Problem Solving Areas</h3>
+
+<p align="center">
+Arrays • Strings • Linked Lists • Graphs • DP • Greedy • Recursion • Backtracking • Sliding Window • Binary Search
+</p>
+
+<br/>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<!-- ░░░░░░░░░░░░░ PROJECTS ░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+### `[ 🚀  FEATURED PROJECTS ]`
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🏥 vaidyaCare</h3>
+
+[![vaidyaCare](https://github-readme-stats.shion.dev/api/pin/?username=Lavi2605&repo=vaidyaCare&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00E5FF&text_color=c9d1d9&border_radius=12)](https://github.com/Lavi2605/vaidyaCare)
+
+`AI Healthcare Platform` &nbsp;|&nbsp; ![Active](https://img.shields.io/badge/ACTIVE-00ff9c?style=flat-square&labelColor=0d1117)
+
+`React` `Node.js` `MongoDB` `AI`
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🛡️ TRACE</h3>
+
+[![TRACE](https://github-readme-stats.shion.dev/api/pin/?username=Lavi2605&repo=NeuralBoost_7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00E5FF&text_color=c9d1d9&border_radius=12)](https://github.com/Lavi2605/NeuralBoost_7)
+
+`Cybersecurity Platform` &nbsp;|&nbsp; ![Active](https://img.shields.io/badge/ACTIVE-00ff9c?style=flat-square&labelColor=0d1117)
+
+`Security` `Monitoring` `AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🧠 SXAG033</h3>
+
+[![SXAG033](https://github-readme-stats.shion.dev/api/pin/?username=gauravmishraokok&repo=SXAG033&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00E5FF&text_color=c9d1d9&border_radius=12)](https://github.com/gauravmishraokok/SXAG033)
+
+`AI/ML Research System` &nbsp;|&nbsp; ![Dev](https://img.shields.io/badge/DEV-8b5cf6?style=flat-square&labelColor=0d1117)
+
+`Python` `ML` `Research`
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">⚙️ DAGS</h3>
+
+[![DAGS](https://github-readme-stats.shion.dev/api/pin/?username=Lavi2605&repo=Digital_Afterlife_Governance_System_DAGS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00E5FF&text_color=c9d1d9&border_radius=12)](https://github.com/Lavi2605/Digital_Afterlife_Governance_System_DAGS)
+
+`Digital Governance System` &nbsp;|&nbsp; ![Active](https://img.shields.io/badge/ACTIVE-00ff9c?style=flat-square&labelColor=0d1117)
+
+`Full-Stack` `APIs` `Cloud`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<!-- ░░░░░░░░░░░░░ ACHIEVEMENTS ░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+### `[ 🏆  ACHIEVEMENTS ]`
+
+</div>
+
+<br/>
 
 ```diff
-+ IEEE Computer Society Chairperson — SJBIT
-+ 3x Hackathon Winner
-+ ₹51,000+ Total Prize Pool Secured
-+ Built AI, Cybersecurity & Healthcare Platforms
-+ Competitive Programming & System Design Enthusiast
-+ Active Open-Source Contributor
+@@  ACHIEVEMENT VAULT — CLEARANCE L5  @@
+
++ [2025]  IEEE Computer Society Chairperson — SJBIT Bengaluru
++ [2025]  3x Hackathon Winner — Rs.51,000+ Total Prize Pool Secured
++ [2025]  Built AI, Cybersecurity & Healthcare platforms from scratch
++ [2025]  Active Open-Source Contributor
++ [2024]  Data Analyst Intern — Unified Mentor, Bengaluru
++ [2024]  Competitive Programmer & System Design Enthusiast
 ```
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br/>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<!-- ░░░░░░░░░░░░░ HACKATHONS ░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-## ⚔️ HACKATHON OPERATIONS
+### `[ ⚔️  HACKATHON LOGS ]`
+
+<br/>
+
+| &nbsp; | YEAR | EVENT | PROJECT | RESULT | PRIZE |
+|:---:|:----:|:------|:--------|:------:|------:|
+| 🥇 | 2025 | **Solaris X** — RNSIT | MEMORA — AI Memory OS | 1st Place | `₹25,000` |
+| 🥉 | 2025 | **AXIOM** State-Level Hackathon | TRACE — Cybersecurity Platform | Second Runner -Up | `₹20,000` |
+| 🥈 | 2024 | **Code Carnage** 24H Hackathon | VaidyaCare — Healthcare Platform | Runner-Up | `₹6,000` |
 
 </div>
 
-```bash
-./hackathon_logs --recent --classified
-```
+<br/>
 
-| YEAR | EVENT                       | STATUS                                                   |
-| ---- | --------------------------- | -------------------------------------------------------- |
-| 2025 | Solaris X — RNSIT           | 🥇 WINNER • MEMORA AI Memory OS • ₹25,000                |
-| 2025 | AXIOM State-Level Hackathon | 🥉 TOP POSITION • TRACE Cybersecurity Platform • ₹20,000 |
-| 2024 | Code Carnage 24H Hackathon  | 🥈 RUNNER-UP • VaidyaCare Healthcare Platform • ₹6,000   |
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- ░░░░░░░░░░░░░ CERTIFICATIONS ░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-## 📜 CERTIFICATION VAULT
+### `[ 📜  CERTIFICATIONS ]`
+
+<br/>
+
+| CERTIFICATION | STATUS |
+|:-------------|:------:|
+| ☁️ AWS Cloud Technical Essentials | ✅ `VERIFIED` |
+| 🤖 Introduction to Machine Learning | ✅ `VERIFIED` |
+| 🐼 Pandas — Data Analysis | ✅ `VERIFIED` |
+| 🌐 Front-End Development — HTML | ✅ `VERIFIED` |
+| 🐍 Introduction to Programming Using Python | ✅ `VERIFIED` |
+| 🔧 Full-Stack Development Bootcamp | ✅ `VERIFIED` |
 
 </div>
 
-```bash
-certificate_manager --verify --trusted
-```
+<br/>
 
-| CERTIFICATION                            | STATUS     |
-| ---------------------------------------- | ---------- |
-| AWS Cloud Technical Essentials           | ✅ VERIFIED |
-| Introduction to Machine Learning         | ✅ VERIFIED |
-| Pandas — Data Analysis                   | ✅ VERIFIED |
-| Front-End Development — HTML             | ✅ VERIFIED |
-| Introduction to Programming Using Python | ✅ VERIFIED |
-| Full-Stack Development Bootcamp          | ✅ VERIFIED |
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- ░░░░░░░░░░░░░ CAPABILITIES ░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-## 🧠 SYSTEM CAPABILITIES
+### `[ 🧠  SYSTEM CAPABILITIES ]`
 
 </div>
+
+<br/>
 
 ```yaml
-capabilities:
-  engineering:
-    - Full-Stack Development
-    - Backend Architecture
-    - Cloud-Native Systems
-    - REST APIs
+# ╔══════════════════════════════════════════╗
+# ║   CAPABILITY MAP  ·  LAVISH  ·  v3.0     ║
+# ╚══════════════════════════════════════════╝
 
-  ai_systems:
-    - Agentic AI
-    - RAG Pipelines
-    - NLP Systems
-    - Topic Modeling
+engineering:
+  full_stack:     [React, Next.js, Node.js, FastAPI, Angular, Express]
+  backend:        [REST APIs, Microservices, System Design]
+  cloud_devops:   [AWS, Docker, Linux, Git]
 
-  security:
-    - Cybersecurity Platforms
-    - Secure System Design
-    - Authentication Systems
+ai_and_data:
+  agentic_ai:     [Multi-agent orchestration, LLM pipelines]
+  rag:            [Retrieval-Augmented Generation, Vector DBs]
+  ml_models:      [Decision Tree, Random Forest, DL Architectures]
+  nlp:            [Topic Modeling, Text Analysis at scale]
+  data_pipelines: [Python + SQL workflows, Pandas, Scikit-Learn]
 
-  leadership:
-    - IEEE Leadership
-    - Team Coordination
-    - Hackathon Management
+security:
+  platforms:      [Cybersecurity monitoring, Threat detection]
+  system_design:  [Secure architecture, Auth systems]
+
+leadership:
+  ieee:           [CS Chairperson @ SJBIT, Event Management]
+  hackathons:     [Team Lead, 3x Winner, Rs.51K+ Prize Pool]
 ```
 
+<br/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<!-- ░░░░░░░░░░░░░ SNAKE & CONTRIBUTORS ░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-# 💻 TERMINAL QUOTE
+### `[ 🐍  CONTRIBUTION SNAKE ]`
 
-```bash
-"The best engineers are not coders —
-they are problem architects."
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
+
+<br/>
+
+![](https://github-contributor-stats.vercel.app/api?username=Lavi2605&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+<br/>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<!-- ░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+<br/>
+
+> *"The best engineers are not coders — they are problem architects."*
+
+<br/>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+<br/><br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Lavi2605&style=for-the-badge&color=00ff9c&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/Lavi2605)
+
+<br/>
+
+```
+╔══════════════════════════════════════════════╗
+║   ◉  SYSTEM ONLINE     ·  USER: Lavi2605     ║
+║   ⚡  ALWAYS BUILDING  ·  SIGNAL: STRONG     ║
+╚══════════════════════════════════════════════╝
 ```
 
-</div>
+<br/>
 
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=merko)
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=Lavi2605\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-# 👁 PROFILE VIEWS
-
-<div align="center">
-
-[![](https://komarev.com/ghpvc/?username=Lavi2605\&icon=5\&color=00ff9c\&label=PROFILE+VIEWS)](https://github.com/Lavi2605)
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-<div align="center">
-
-```bash
-[ SYSTEM STATUS ] ONLINE
-[ USER ] Lavi2605
-[ SECURITY ] ENABLED
-[ TERMINAL ] ACTIVE
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,25:00FF9C,50:00E5FF,75:8B5CF6,100:030712&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:001a0f,50:00FF9C,75:00E5FF,100:0d1117&height=150&section=footer&animation=fadeIn"/>
 
 </div>
