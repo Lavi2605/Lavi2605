@@ -343,7 +343,7 @@ Arrays • Strings • Linked Lists • Graphs • DP • Greedy • Recursion �
 
 <h3 align="center">🏥 VaidyaCare</h3>
 
-[![vaidyaCare](https://github-readme-stats.shion.dev/api/pin/?username=Lavi2605&repo=vaidyaCare&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00E5FF&text_color=c9d1d9&border_radius=12)](https://github.com/Lavi2605/vaidyaCare)
+[![vaidyaCare](https://github-readme-stats.shion.dev/api/pin/?username=Lavi2605&repo=vaidyaCare&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00E5FF&text_color=c9d1d9&border_radius=12&cache_seconds=30)](https://github.com/Lavi2605/vaidyaCare)
 
 `AI Healthcare Platform` &nbsp;|&nbsp; ![Active](https://img.shields.io/badge/ACTIVE-00ff9c?style=flat-square&labelColor=0d1117)
 
@@ -354,7 +354,7 @@ Arrays • Strings • Linked Lists • Graphs • DP • Greedy • Recursion �
 
 <h3 align="center">🛡️ TRACE</h3>
 
-[![TRACE](https://github-readme-stats.shion.dev/api/pin/?username=Lavi2605&repo=NeuralBoost_7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00E5FF&text_color=c9d1d9&border_radius=12)](https://github.com/Lavi2605/NeuralBoost_7)
+[![TRACE](https://github-readme-stats.shion.dev/api/pin/?username=Lavi2605&repo=NeuralBoost_7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00E5FF&text_color=c9d1d9&border_radius=12&cache_seconds=30)](https://github.com/Lavi2605/NeuralBoost_7)
 
 `Cybersecurity Platform` &nbsp;|&nbsp; ![Active](https://img.shields.io/badge/ACTIVE-00ff9c?style=flat-square&labelColor=0d1117)
 
@@ -367,7 +367,7 @@ Arrays • Strings • Linked Lists • Graphs • DP • Greedy • Recursion �
 
 <h3 align="center">🧠 Memoria</h3>
 
-[![SXAG033](https://github-readme-stats.shion.dev/api/pin/?username=gauravmishraokok&repo=SXAG033&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00E5FF&text_color=c9d1d9&border_radius=12)](https://github.com/gauravmishraokok/SXAG033)
+[![SXAG033](https://github-readme-stats.shion.dev/api/pin/?username=gauravmishraokok&repo=SXAG033&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00E5FF&text_color=c9d1d9&border_radius=12&cache_seconds=10)](https://github.com/gauravmishraokok/SXAG033)
 
 `AI/ML Research System` &nbsp;|&nbsp; ![Dev](https://img.shields.io/badge/DEV-8b5cf6?style=flat-square&labelColor=0d1117)
 
