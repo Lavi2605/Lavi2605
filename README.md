@@ -336,7 +336,7 @@ Arrays • Strings • Linked Lists • Graphs • DP • Greedy • Recursion �
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🏥 vaidyaCare</h3>
+<h3 align="center">🏥 VaidyaCare</h3>
 
 [![vaidyaCare](https://github-readme-stats.shion.dev/api/pin/?username=Lavi2605&repo=vaidyaCare&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00E5FF&text_color=c9d1d9&border_radius=12)](https://github.com/Lavi2605/vaidyaCare)
 
@@ -360,7 +360,7 @@ Arrays • Strings • Linked Lists • Graphs • DP • Greedy • Recursion �
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🧠 SXAG033</h3>
+<h3 align="center">🧠 Memoria</h3>
 
 [![SXAG033](https://github-readme-stats.shion.dev/api/pin/?username=gauravmishraokok&repo=SXAG033&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00E5FF&text_color=c9d1d9&border_radius=12)](https://github.com/gauravmishraokok/SXAG033)
 
@@ -373,9 +373,15 @@ Arrays • Strings • Linked Lists • Graphs • DP • Greedy • Recursion �
 
 <h3 align="center">⚙️ DAGS</h3>
 
-[![DAGS](https://github-readme-stats.shion.dev/api/pin/?username=Lavi2605&repo=Digital_Afterlife_Governance_System_DAGS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00E5FF&text_color=c9d1d9&border_radius=12)](https://github.com/Lavi2605/Digital_Afterlife_Governance_System_DAGS)
+<a href="https://github.com/Lavi2605/Digital_Afterlife_Governance_System_DAGS">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=140&color=gradient&text=DIGITAL%20AFTERLIFE%20GOVERNANCE%20SYSTEM&fontSize=26&fontColor=ffffff"/>
+</a>
 
-`Digital Governance System` &nbsp;|&nbsp; ![Active](https://img.shields.io/badge/ACTIVE-00ff9c?style=flat-square&labelColor=0d1117)
+<p align="center">
+• Private Repo • Security • Automation • Full-Stack
+</p>
+
+`Digital Governance System` &nbsp;|&nbsp; ![Dev](https://img.shields.io/badge/DEV-8b5cf6?style=flat-square&labelColor=0d1117)
 
 `Full-Stack` `APIs` `Cloud`
 
@@ -496,6 +502,14 @@ leadership:
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!-- ░░░░░░░░░░░░░ SNAKE & CONTRIBUTORS ░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+## 🌃 GitHub Skyline
+
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=Lavi2605&bg=0d1117" width="100%"/>
+
+</div>
 
 <div align="center">
 
