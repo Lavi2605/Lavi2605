@@ -470,7 +470,7 @@ Arrays • Strings • Linked Lists • Graphs • DP • Greedy • Recursion �
 
 <div align="center">
 
-### `[ 🧠  SYSTEM CAPABILITIES ]`
+### `[ 🧠 CAPABILITIES ]`
 
 </div>
 
